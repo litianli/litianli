@@ -1,7 +1,1 @@
-#include <stdio.h>
-
-int main(){
-    
-    printf("我只是一个说明文件\n");
-    return 0;
-}
+我只是一个说明文件
